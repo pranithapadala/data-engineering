@@ -12,3 +12,4 @@ A simple ETL pipeline that reads a CSV, cleans the data, calculates revenue, and
 - `ETL.py`: extract, transform, load logic
 - `requirements.txt`: Python packages
 
+# data-engineering
